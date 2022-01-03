@@ -1,5 +1,10 @@
 ### Hello there 👋
 
+<p align="center" style="margin: 0; padding:0">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-pessoa&hide=html&layout=compact&theme=github_dark" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=marcio-pessoa&theme=github_dark&show_icons=true" />
+</p>
+
 <!--
 **marcio-pessoa/marcio-pessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
