@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My Skill Set
+<!-- ### My Skill Set
 
 <table><tr><td valign="top" width="33%">
 
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-</div>
+</div> -->
 
 </td></tr></table>
 
